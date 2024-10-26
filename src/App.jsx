@@ -108,8 +108,10 @@ function App() {
       </div>
       <Add isActive = {isActive}
       handleIsActiveState = {handleIsActiveState}></Add>
+      <div className='mt-24'>
       <FooterCard></FooterCard>
       <Footer></Footer>
+      </div>
     </>
   )
 }

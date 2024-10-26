@@ -4,7 +4,7 @@ const Footer = () => {
     return (
         <div>
             
-    <div>
+    <div className=''>
       
       <div className="bg-[#06091A] py-20 ">
         <div className="flex justify-center mb-2">

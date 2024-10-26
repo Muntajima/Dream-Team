@@ -5,6 +5,7 @@ const Selected = ({ select, isActive, handleDelete }) => {
     const { name, img, type, price } = select;
     return (
         <>
+            <div>
             <div className={`${isActive.status == "selected" ? "block" : "hidden"}`}>
                 <div className="flex justify-between items-center">
                     <div className="flex gap-4 items-center my-8">
@@ -18,7 +19,8 @@ const Selected = ({ select, isActive, handleDelete }) => {
                     </div>
                     <button onClick={() =>handleDelete(select)} className ="btn btn-error text-white">Delete</button>
                 </div>
-            </div>           
+            </div>   
+                </div>        
         </>
 
 
