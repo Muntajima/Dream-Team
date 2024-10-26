@@ -1,9 +1,19 @@
-# React + Vite
+# Dream Team
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📖 Description
+"Dream Team" is a dynamic web application that allows users to recruit players. This app includes both domestic and international players.
 
-Currently, two official plugins are available:
+## 🚀 Technologies Used
+This project utilizes a modern tech stack to ensure optimal performance, scalability, and an excellent user experience:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# b10a7-dream-11-Muntajima
+- **React** - For building a fast, interactive, and component-based user interface.
+- **Node.js** - Backend server to handle requests, routes, and database interactions.
+- **TailwindCSS** - For styling the application with a responsive and polished look.
+- 
+- 
+
+## ✨ Key Features
+1. **Cradit Amount** - User can claim a cradit amount.
+2. **All popular players** - User can see the international players with their bidding price.
+3. **Choose Players** - User can select their favourable players.
+
