@@ -1,0 +1,112 @@
+[
+    {
+        "id" : "1",
+        "name": "Virat Kohli",
+        "country": "India",
+        "rating": 4.8,
+        "price": 1000000,
+        "type": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm medium",
+        "img": "https://i.ibb.co.com/HT6JqqR/Virat-Kohli-in-PMO-New-Delhi-jpg.webp" 
+    },
+    { 
+        "id": "2",
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "rating": 4.2,
+        "price": 900000,
+        "type": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm offbreak",
+        "img": "https://i.ibb.co.com/VCfb65B/images.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Jasprit Bumrah",
+        "country": "India",
+        "rating": 4.3,
+        "price": 950000,
+        "type": "Bowler",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm fast",
+        "img": "https://i.ibb.co.com/nm0yB1k/images-1.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Pat Cummins",
+        "country": "Australia",
+        "rating": 4.3,
+        "price": 1100000,
+        "type": "Bowler",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm fast",
+        "img": "https://i.ibb.co.com/GRvJBJF/33.webp"
+    },
+    {
+        "id": "5",
+        "name": "Ben Stokes",
+        "country": "England",
+        "rating": 4.4,
+        "price": 1050000,
+        "type": "All-rounder",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Right-arm medium fast",
+        "img": "https://i.ibb.co.com/t8vTG87/a9d0216d15cc0ab735b7fe70eb8d1397-Y29ud-GVud-HNl-YXJja-GFwa-Swx-Nz-I3-Mjgz-MTk3-2-77349187.jpg" 
+    },
+    {
+        "id": "6",
+        "name": "Shakib Al Hasan",
+        "country": "Bangladesh",
+        "rating": 4.2,
+        "price": 950000,
+        "type": "All-rounder",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Left-arm orthodox",
+        "img": "https://i.ibb.co.com/RghhHKL/Al-Hasan.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Quinton de Kock",
+        "country": "South Africa",
+        "rating": 4.1,
+        "price": 800000,
+        "type": "Wicketkeeper",
+        "battingType": "Left-hand bat",
+        "bowlingType": "None",
+        "img": "https://i.ibb.co.com/ZLx01kD/download.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Jos Buttler",
+        "country": "England",
+        "rating": 4.15,
+        "price": 980000,
+        "type": "Wicketkeeper",
+        "battingType": "Right-hand bat",
+        "bowlingType": "None",
+        "img": "https://i.ibb.co.com/rsLVpjW/images-2.jpg" 
+    },
+    {
+        "id": "9",
+        "name": "Rashid Khan",
+        "country": "Afghanistan",
+        "rating": 4.5,
+        "price": 950000,
+        "type": "Bowler",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm legbreak",
+        "img": "https://i.ibb.co.com/HFkjVQT/images-3.jpg"
+    },
+    {
+        "id": "10",
+        "name": "David Warner",
+        "country": "Australia",
+        "rating": 4.1,
+        "price": 870000,
+        "type": "Batsman",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Right-arm legbreak",
+        "img": "https://i.ibb.co.com/hyTFTX6/1704172049-0543.jpg"
+    }
+]
